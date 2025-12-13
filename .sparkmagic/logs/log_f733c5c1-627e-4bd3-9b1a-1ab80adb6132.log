@@ -1,0 +1,62 @@
+2025-12-08 22:04:28,078	DEBUG	SparkMagics	Initialized spark magics.
+2025-12-08 22:04:28,080	INFO	EventsHandler	InstanceId: f733c5c1-627e-4bd3-9b1a-1ab80adb6132,EventName: notebookLoaded,Timestamp: 2025-12-08 22:04:28.080271
+2025-12-08 22:04:28,080	DEBUG	python_jupyter_kernel	Loaded magics.
+2025-12-08 22:04:28,082	DEBUG	python_jupyter_kernel	Changed language.
+2025-12-08 22:04:28,229	DEBUG	python_jupyter_kernel	Registered auto viz.
+2025-12-08 22:04:36,413	INFO	EventsHandler	InstanceId: f733c5c1-627e-4bd3-9b1a-1ab80adb6132,EventName: notebookMagicExecutionStart,Timestamp: 2025-12-08 22:04:36.413907,MagicName: configure,LivyKind: pyspark,MagicGuid: 5b6899c8-e03f-4e16-a8cd-93ec30d540c4
+2025-12-08 22:04:36,414	INFO	EventsHandler	InstanceId: f733c5c1-627e-4bd3-9b1a-1ab80adb6132,EventName: notebookMagicExecutionStart,Timestamp: 2025-12-08 22:04:36.414808,MagicName: info,LivyKind: pyspark,MagicGuid: f6197386-27e7-4422-8cc7-bff9d882f11a
+2025-12-08 22:04:36,533	INFO	EventsHandler	InstanceId: f733c5c1-627e-4bd3-9b1a-1ab80adb6132,EventName: notebookMagicExecutionEnd,Timestamp: 2025-12-08 22:04:36.533798,MagicName: info,LivyKind: pyspark,MagicGuid: f6197386-27e7-4422-8cc7-bff9d882f11a,Success: True,ExceptionType: ,ExceptionMessage: 
+2025-12-08 22:04:36,534	INFO	EventsHandler	InstanceId: f733c5c1-627e-4bd3-9b1a-1ab80adb6132,EventName: notebookMagicExecutionEnd,Timestamp: 2025-12-08 22:04:36.534127,MagicName: configure,LivyKind: pyspark,MagicGuid: 5b6899c8-e03f-4e16-a8cd-93ec30d540c4,Success: True,ExceptionType: ,ExceptionMessage: 
+2025-12-08 22:04:36,542	INFO	EventsHandler	InstanceId: f733c5c1-627e-4bd3-9b1a-1ab80adb6132,EventName: notebookSessionCreationStart,Timestamp: 2025-12-08 22:04:36.542026,SessionGuid: ee8a62d1-bf80-49bb-86ac-399464bf8da6,LivyKind: pyspark
+2025-12-08 22:04:36,557	DEBUG	LivySession	Session 423 in state starting. Sleeping 0.2 seconds.
+2025-12-08 22:04:36,760	DEBUG	LivySession	Session 423 in state starting. Sleeping 0.5 seconds.
+2025-12-08 22:04:37,263	DEBUG	LivySession	Session 423 in state starting. Sleeping 0.5 seconds.
+2025-12-08 22:04:37,766	DEBUG	LivySession	Session 423 in state starting. Sleeping 1 seconds.
+2025-12-08 22:04:38,769	DEBUG	LivySession	Session 423 in state starting. Sleeping 1 seconds.
+2025-12-08 22:04:39,773	DEBUG	LivySession	Session 423 in state starting. Sleeping 2 seconds.
+2025-12-08 22:04:41,778	DEBUG	LivySession	Session 423 in state starting. Sleeping 2 seconds.
+2025-12-08 22:04:43,783	DEBUG	LivySession	Session 423 in state starting. Sleeping 2 seconds.
+2025-12-08 22:04:45,788	DEBUG	LivySession	Session 423 in state starting. Sleeping 2 seconds.
+2025-12-08 22:04:47,791	DEBUG	LivySession	Session 423 in state starting. Sleeping 2 seconds.
+2025-12-08 22:04:49,796	DEBUG	LivySession	Session 423 in state starting. Sleeping 2 seconds.
+2025-12-08 22:04:51,801	DEBUG	LivySession	Session 423 in state starting. Sleeping 2 seconds.
+2025-12-08 22:04:53,806	DEBUG	LivySession	Session 423 in state starting. Sleeping 2 seconds.
+2025-12-08 22:04:55,810	DEBUG	LivySession	Session 423 in state starting. Sleeping 2 seconds.
+2025-12-08 22:04:57,815	DEBUG	LivySession	Session 423 in state starting. Sleeping 2 seconds.
+2025-12-08 22:04:59,820	DEBUG	LivySession	Session 423 in state starting. Sleeping 2 seconds.
+2025-12-08 22:05:01,824	DEBUG	LivySession	Session 423 in state starting. Sleeping 2 seconds.
+2025-12-08 22:05:03,829	DEBUG	LivySession	Session 423 in state starting. Sleeping 2 seconds.
+2025-12-08 22:05:05,833	DEBUG	LivySession	Session 423 in state starting. Sleeping 2 seconds.
+2025-12-08 22:05:07,836	DEBUG	LivySession	Session 423 in state starting. Sleeping 2 seconds.
+2025-12-08 22:05:09,841	DEBUG	LivySession	Session 423 in state starting. Sleeping 2 seconds.
+2025-12-08 22:05:11,845	DEBUG	LivySession	Session 423 in state starting. Sleeping 2 seconds.
+2025-12-08 22:05:13,850	DEBUG	LivySession	Session 423 in state starting. Sleeping 2 seconds.
+2025-12-08 22:05:15,855	DEBUG	LivySession	Session 423 in state starting. Sleeping 2 seconds.
+2025-12-08 22:05:17,859	DEBUG	LivySession	Session 423 in state starting. Sleeping 2 seconds.
+2025-12-08 22:05:19,864	DEBUG	LivySession	Session 423 in state starting. Sleeping 2 seconds.
+2025-12-08 22:05:21,868	DEBUG	LivySession	Session 423 in state starting. Sleeping 2 seconds.
+2025-12-08 22:05:23,873	DEBUG	LivySession	Session 423 in state starting. Sleeping 2 seconds.
+2025-12-08 22:05:25,877	DEBUG	LivySession	Session 423 in state starting. Sleeping 2 seconds.
+2025-12-08 22:05:27,881	DEBUG	LivySession	Session 423 in state starting. Sleeping 2 seconds.
+2025-12-08 22:05:29,886	DEBUG	LivySession	Session 423 in state starting. Sleeping 2 seconds.
+2025-12-08 22:05:31,891	DEBUG	LivySession	Session 423 in state starting. Sleeping 2 seconds.
+2025-12-08 22:05:33,895	DEBUG	LivySession	Session 423 in state starting. Sleeping 2 seconds.
+2025-12-08 22:05:35,900	DEBUG	LivySession	Session 423 in state starting. Sleeping 2 seconds.
+2025-12-08 22:05:37,905	ERROR	LivySession	Session 423 did not reach idle status in time. Current status is starting.
+2025-12-08 22:05:37,905	INFO	EventsHandler	InstanceId: f733c5c1-627e-4bd3-9b1a-1ab80adb6132,EventName: notebookSessionCreationEnd,Timestamp: 2025-12-08 22:05:37.905513,SessionGuid: ee8a62d1-bf80-49bb-86ac-399464bf8da6,LivyKind: pyspark,SessionId: 423,Status: starting,Success: False,ExceptionType: LivyClientTimeoutException,ExceptionMessage: Session 423 did not start up in 60 seconds.
+2025-12-08 22:05:37,905	INFO	EventsHandler	InstanceId: f733c5c1-627e-4bd3-9b1a-1ab80adb6132,EventName: notebookSessionDeletionStart,Timestamp: 2025-12-08 22:05:37.905628,SessionGuid: ee8a62d1-bf80-49bb-86ac-399464bf8da6,LivyKind: pyspark,SessionId: 423,Status: starting
+2025-12-08 22:05:37,905	DEBUG	LivySession	Deleting session '423'
+2025-12-08 22:05:37,908	INFO	EventsHandler	InstanceId: f733c5c1-627e-4bd3-9b1a-1ab80adb6132,EventName: notebookSessionDeletionEnd,Timestamp: 2025-12-08 22:05:37.908700,SessionGuid: ee8a62d1-bf80-49bb-86ac-399464bf8da6,LivyKind: pyspark,SessionId: 423,Status: dead,Success: True,ExceptionType: ,ExceptionMessage: 
+2025-12-08 22:05:37,908	ERROR	SparkMagics	Error creating session: Session 423 did not start up in 60 seconds.
+2025-12-09 10:39:39,810	INFO	EventsHandler	InstanceId: f733c5c1-627e-4bd3-9b1a-1ab80adb6132,EventName: notebookMagicExecutionStart,Timestamp: 2025-12-09 10:39:39.810907,MagicName: configure,LivyKind: pyspark,MagicGuid: f4f5f9b5-1afc-4376-a896-cadca6e6f5bd
+2025-12-09 10:39:39,811	INFO	EventsHandler	InstanceId: f733c5c1-627e-4bd3-9b1a-1ab80adb6132,EventName: notebookMagicExecutionStart,Timestamp: 2025-12-09 10:39:39.811353,MagicName: info,LivyKind: pyspark,MagicGuid: 7f29f4f9-961e-4245-8053-53f38ccef45c
+2025-12-09 10:39:39,887	INFO	EventsHandler	InstanceId: f733c5c1-627e-4bd3-9b1a-1ab80adb6132,EventName: notebookMagicExecutionEnd,Timestamp: 2025-12-09 10:39:39.887206,MagicName: info,LivyKind: pyspark,MagicGuid: 7f29f4f9-961e-4245-8053-53f38ccef45c,Success: True,ExceptionType: ,ExceptionMessage: 
+2025-12-09 10:39:39,887	INFO	EventsHandler	InstanceId: f733c5c1-627e-4bd3-9b1a-1ab80adb6132,EventName: notebookMagicExecutionEnd,Timestamp: 2025-12-09 10:39:39.887532,MagicName: configure,LivyKind: pyspark,MagicGuid: f4f5f9b5-1afc-4376-a896-cadca6e6f5bd,Success: True,ExceptionType: ,ExceptionMessage: 
+2025-12-09 10:39:53,828	INFO	EventsHandler	InstanceId: f733c5c1-627e-4bd3-9b1a-1ab80adb6132,EventName: notebookMagicExecutionStart,Timestamp: 2025-12-09 10:39:53.828811,MagicName: configure,LivyKind: pyspark,MagicGuid: f14ec042-d181-418a-82f9-24e69b90893d
+2025-12-09 10:39:53,829	INFO	EventsHandler	InstanceId: f733c5c1-627e-4bd3-9b1a-1ab80adb6132,EventName: notebookMagicExecutionStart,Timestamp: 2025-12-09 10:39:53.829651,MagicName: info,LivyKind: pyspark,MagicGuid: 22986acc-3f89-4b6e-b921-289a69b2e60d
+2025-12-09 10:39:53,892	INFO	EventsHandler	InstanceId: f733c5c1-627e-4bd3-9b1a-1ab80adb6132,EventName: notebookMagicExecutionEnd,Timestamp: 2025-12-09 10:39:53.892779,MagicName: info,LivyKind: pyspark,MagicGuid: 22986acc-3f89-4b6e-b921-289a69b2e60d,Success: True,ExceptionType: ,ExceptionMessage: 
+2025-12-09 10:39:53,893	INFO	EventsHandler	InstanceId: f733c5c1-627e-4bd3-9b1a-1ab80adb6132,EventName: notebookMagicExecutionEnd,Timestamp: 2025-12-09 10:39:53.893069,MagicName: configure,LivyKind: pyspark,MagicGuid: f14ec042-d181-418a-82f9-24e69b90893d,Success: True,ExceptionType: ,ExceptionMessage: 
+2025-12-09 10:40:01,234	INFO	EventsHandler	InstanceId: f733c5c1-627e-4bd3-9b1a-1ab80adb6132,EventName: notebookMagicExecutionStart,Timestamp: 2025-12-09 10:40:01.234351,MagicName: configure,LivyKind: pyspark,MagicGuid: db1823b2-e342-4ef9-90c1-1bf5c5923ef2
+2025-12-09 10:40:01,234	INFO	EventsHandler	InstanceId: f733c5c1-627e-4bd3-9b1a-1ab80adb6132,EventName: notebookMagicExecutionStart,Timestamp: 2025-12-09 10:40:01.234703,MagicName: info,LivyKind: pyspark,MagicGuid: 4e781939-2561-4814-a46b-d09958f4f09b
+2025-12-09 10:40:01,302	INFO	EventsHandler	InstanceId: f733c5c1-627e-4bd3-9b1a-1ab80adb6132,EventName: notebookMagicExecutionEnd,Timestamp: 2025-12-09 10:40:01.302713,MagicName: info,LivyKind: pyspark,MagicGuid: 4e781939-2561-4814-a46b-d09958f4f09b,Success: True,ExceptionType: ,ExceptionMessage: 
+2025-12-09 10:40:01,303	INFO	EventsHandler	InstanceId: f733c5c1-627e-4bd3-9b1a-1ab80adb6132,EventName: notebookMagicExecutionEnd,Timestamp: 2025-12-09 10:40:01.303041,MagicName: configure,LivyKind: pyspark,MagicGuid: db1823b2-e342-4ef9-90c1-1bf5c5923ef2,Success: True,ExceptionType: ,ExceptionMessage: 

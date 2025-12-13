@@ -1,0 +1,33 @@
+2025-11-20 17:02:38,518	DEBUG	SparkMagics	Initialized spark magics.
+2025-11-20 17:02:38,519	INFO	EventsHandler	InstanceId: c26a71f0-3924-4c3a-985f-f56e3c325511,EventName: notebookLoaded,Timestamp: 2025-11-20 17:02:38.519120
+2025-11-20 17:02:38,519	DEBUG	python_jupyter_kernel	Loaded magics.
+2025-11-20 17:02:38,520	DEBUG	python_jupyter_kernel	Changed language.
+2025-11-20 17:02:38,574	DEBUG	python_jupyter_kernel	Registered auto viz.
+2025-11-20 17:03:04,524	INFO	EventsHandler	InstanceId: c26a71f0-3924-4c3a-985f-f56e3c325511,EventName: notebookSessionCreationStart,Timestamp: 2025-11-20 17:03:04.524851,SessionGuid: 7d4b2393-65bf-4f88-afff-88ae97098484,LivyKind: pyspark
+2025-11-20 17:03:04,547	DEBUG	LivySession	Session 307 in state starting. Sleeping 0.2 seconds.
+2025-11-20 17:03:04,750	DEBUG	LivySession	Session 307 in state starting. Sleeping 0.5 seconds.
+2025-11-20 17:03:05,254	DEBUG	LivySession	Session 307 in state starting. Sleeping 0.5 seconds.
+2025-11-20 17:03:05,757	DEBUG	LivySession	Session 307 in state starting. Sleeping 1 seconds.
+2025-11-20 17:03:06,761	DEBUG	LivySession	Session 307 in state starting. Sleeping 1 seconds.
+2025-11-20 17:03:07,765	DEBUG	LivySession	Session 307 in state starting. Sleeping 2 seconds.
+2025-11-20 17:03:09,769	DEBUG	LivySession	Session 307 in state starting. Sleeping 2 seconds.
+2025-11-20 17:03:11,774	DEBUG	LivySession	Session 307 in state starting. Sleeping 2 seconds.
+2025-11-20 17:03:13,777	DEBUG	LivySession	Session 307 in state starting. Sleeping 2 seconds.
+2025-11-20 17:03:15,781	DEBUG	LivySession	Session 307 in state starting. Sleeping 2 seconds.
+2025-11-20 17:03:17,785	DEBUG	LivySession	Session 307 in state starting. Sleeping 2 seconds.
+2025-11-20 17:03:19,789	DEBUG	LivySession	Session 307 in state starting. Sleeping 2 seconds.
+2025-11-20 17:03:21,795	DEBUG	LivySession	Session 307 in state starting. Sleeping 2 seconds.
+2025-11-20 17:03:23,799	DEBUG	LivySession	Session 307 in state starting. Sleeping 2 seconds.
+2025-11-20 17:03:25,804	DEBUG	LivySession	Session 307 in state starting. Sleeping 2 seconds.
+2025-11-20 17:03:27,809	DEBUG	LivySession	Session 307 in state starting. Sleeping 2 seconds.
+2025-11-20 17:03:29,825	INFO	EventsHandler	InstanceId: c26a71f0-3924-4c3a-985f-f56e3c325511,EventName: notebookStatementExecutionStart,Timestamp: 2025-11-20 17:03:29.825668,SessionGuid: 7d4b2393-65bf-4f88-afff-88ae97098484,LivyKind: pyspark,SessionId: 307,StatementGuid: 5593bcff-ac95-4b93-ac70-f98e4e431d4e
+2025-11-20 17:03:29,853	DEBUG	Command	Status of statement 0 is waiting.
+2025-11-20 17:03:30,057	DEBUG	Command	Status of statement 0 is waiting.
+2025-11-20 17:03:30,562	DEBUG	Command	Status of statement 0 is waiting.
+2025-11-20 17:03:31,066	DEBUG	Command	Status of statement 0 is waiting.
+2025-11-20 17:03:32,070	DEBUG	Command	Status of statement 0 is available.
+2025-11-20 17:03:32,071	INFO	EventsHandler	InstanceId: c26a71f0-3924-4c3a-985f-f56e3c325511,EventName: notebookStatementExecutionEnd,Timestamp: 2025-11-20 17:03:32.071005,SessionGuid: 7d4b2393-65bf-4f88-afff-88ae97098484,LivyKind: pyspark,SessionId: 307,StatementGuid: 5593bcff-ac95-4b93-ac70-f98e4e431d4e,StatementId: 0,Success: True,ExceptionType: ,ExceptionMessage: 
+2025-11-20 17:03:32,073	INFO	EventsHandler	InstanceId: c26a71f0-3924-4c3a-985f-f56e3c325511,EventName: notebookSessionCreationEnd,Timestamp: 2025-11-20 17:03:32.073642,SessionGuid: 7d4b2393-65bf-4f88-afff-88ae97098484,LivyKind: pyspark,SessionId: 307,Status: idle,Success: True,ExceptionType: ,ExceptionMessage: 
+2025-11-20 17:03:32,074	INFO	EventsHandler	InstanceId: c26a71f0-3924-4c3a-985f-f56e3c325511,EventName: notebookStatementExecutionStart,Timestamp: 2025-11-20 17:03:32.074621,SessionGuid: 7d4b2393-65bf-4f88-afff-88ae97098484,LivyKind: pyspark,SessionId: 307,StatementGuid: 543480d0-f4ff-4100-b6b3-97330ed7487a
+2025-11-20 17:03:32,087	DEBUG	Command	Status of statement 1 is available.
+2025-11-20 17:03:32,087	INFO	EventsHandler	InstanceId: c26a71f0-3924-4c3a-985f-f56e3c325511,EventName: notebookStatementExecutionEnd,Timestamp: 2025-11-20 17:03:32.087550,SessionGuid: 7d4b2393-65bf-4f88-afff-88ae97098484,LivyKind: pyspark,SessionId: 307,StatementGuid: 543480d0-f4ff-4100-b6b3-97330ed7487a,StatementId: 1,Success: True,ExceptionType: ,ExceptionMessage: 

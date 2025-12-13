@@ -1,0 +1,50 @@
+2025-12-10 19:15:10,668	DEBUG	SparkMagics	Initialized spark magics.
+2025-12-10 19:15:10,669	INFO	EventsHandler	InstanceId: 164a8670-fe6a-4efc-92eb-3632d69b93e1,EventName: notebookLoaded,Timestamp: 2025-12-10 19:15:10.669272
+2025-12-10 19:15:10,670	DEBUG	python_jupyter_kernel	Loaded magics.
+2025-12-10 19:15:10,671	DEBUG	python_jupyter_kernel	Changed language.
+2025-12-10 19:15:10,726	DEBUG	python_jupyter_kernel	Registered auto viz.
+2025-12-10 19:15:15,344	INFO	EventsHandler	InstanceId: 164a8670-fe6a-4efc-92eb-3632d69b93e1,EventName: notebookMagicExecutionStart,Timestamp: 2025-12-10 19:15:15.344715,MagicName: configure,LivyKind: pyspark,MagicGuid: 488b61b8-1c84-45a1-b006-5f48eaf40626
+2025-12-10 19:15:15,345	INFO	EventsHandler	InstanceId: 164a8670-fe6a-4efc-92eb-3632d69b93e1,EventName: notebookMagicExecutionStart,Timestamp: 2025-12-10 19:15:15.345508,MagicName: info,LivyKind: pyspark,MagicGuid: 98983456-eba0-4d2b-bbf2-38cc501751d3
+2025-12-10 19:15:15,475	INFO	EventsHandler	InstanceId: 164a8670-fe6a-4efc-92eb-3632d69b93e1,EventName: notebookMagicExecutionEnd,Timestamp: 2025-12-10 19:15:15.475131,MagicName: info,LivyKind: pyspark,MagicGuid: 98983456-eba0-4d2b-bbf2-38cc501751d3,Success: True,ExceptionType: ,ExceptionMessage: 
+2025-12-10 19:15:15,475	INFO	EventsHandler	InstanceId: 164a8670-fe6a-4efc-92eb-3632d69b93e1,EventName: notebookMagicExecutionEnd,Timestamp: 2025-12-10 19:15:15.475631,MagicName: configure,LivyKind: pyspark,MagicGuid: 488b61b8-1c84-45a1-b006-5f48eaf40626,Success: True,ExceptionType: ,ExceptionMessage: 
+2025-12-10 19:15:18,577	INFO	EventsHandler	InstanceId: 164a8670-fe6a-4efc-92eb-3632d69b93e1,EventName: notebookSessionCreationStart,Timestamp: 2025-12-10 19:15:18.577080,SessionGuid: 44f95a85-1d49-44d9-a20d-4ad0acf381fa,LivyKind: pyspark
+2025-12-10 19:15:18,591	DEBUG	LivySession	Session 383 in state starting. Sleeping 0.2 seconds.
+2025-12-10 19:15:18,794	DEBUG	LivySession	Session 383 in state starting. Sleeping 0.5 seconds.
+2025-12-10 19:15:19,298	DEBUG	LivySession	Session 383 in state starting. Sleeping 0.5 seconds.
+2025-12-10 19:15:19,801	DEBUG	LivySession	Session 383 in state starting. Sleeping 1 seconds.
+2025-12-10 19:15:20,805	DEBUG	LivySession	Session 383 in state starting. Sleeping 1 seconds.
+2025-12-10 19:15:21,809	DEBUG	LivySession	Session 383 in state starting. Sleeping 2 seconds.
+2025-12-10 19:15:23,824	DEBUG	LivySession	Session 383 in state starting. Sleeping 2 seconds.
+2025-12-10 19:15:25,829	DEBUG	LivySession	Session 383 in state starting. Sleeping 2 seconds.
+2025-12-10 19:15:27,833	DEBUG	LivySession	Session 383 in state starting. Sleeping 2 seconds.
+2025-12-10 19:15:29,838	DEBUG	LivySession	Session 383 in state starting. Sleeping 2 seconds.
+2025-12-10 19:15:31,843	DEBUG	LivySession	Session 383 in state starting. Sleeping 2 seconds.
+2025-12-10 19:15:33,848	DEBUG	LivySession	Session 383 in state starting. Sleeping 2 seconds.
+2025-12-10 19:15:35,853	DEBUG	LivySession	Session 383 in state starting. Sleeping 2 seconds.
+2025-12-10 19:15:37,858	DEBUG	LivySession	Session 383 in state starting. Sleeping 2 seconds.
+2025-12-10 19:15:39,863	DEBUG	LivySession	Session 383 in state starting. Sleeping 2 seconds.
+2025-12-10 19:15:41,868	DEBUG	LivySession	Session 383 in state starting. Sleeping 2 seconds.
+2025-12-10 19:15:43,871	DEBUG	LivySession	Session 383 in state starting. Sleeping 2 seconds.
+2025-12-10 19:15:45,877	DEBUG	LivySession	Session 383 in state starting. Sleeping 2 seconds.
+2025-12-10 19:15:47,882	DEBUG	LivySession	Session 383 in state starting. Sleeping 2 seconds.
+2025-12-10 19:15:49,887	DEBUG	LivySession	Session 383 in state starting. Sleeping 2 seconds.
+2025-12-10 19:15:51,891	DEBUG	LivySession	Session 383 in state starting. Sleeping 2 seconds.
+2025-12-10 19:15:53,896	DEBUG	LivySession	Session 383 in state starting. Sleeping 2 seconds.
+2025-12-10 19:15:55,901	DEBUG	LivySession	Session 383 in state starting. Sleeping 2 seconds.
+2025-12-10 19:15:57,906	DEBUG	LivySession	Session 383 in state starting. Sleeping 2 seconds.
+2025-12-10 19:15:59,911	DEBUG	LivySession	Session 383 in state starting. Sleeping 2 seconds.
+2025-12-10 19:16:01,915	DEBUG	LivySession	Session 383 in state starting. Sleeping 2 seconds.
+2025-12-10 19:16:03,920	DEBUG	LivySession	Session 383 in state starting. Sleeping 2 seconds.
+2025-12-10 19:16:05,925	DEBUG	LivySession	Session 383 in state starting. Sleeping 2 seconds.
+2025-12-10 19:16:07,929	DEBUG	LivySession	Session 383 in state starting. Sleeping 2 seconds.
+2025-12-10 19:16:09,933	DEBUG	LivySession	Session 383 in state starting. Sleeping 2 seconds.
+2025-12-10 19:16:11,938	DEBUG	LivySession	Session 383 in state starting. Sleeping 2 seconds.
+2025-12-10 19:16:13,941	DEBUG	LivySession	Session 383 in state starting. Sleeping 2 seconds.
+2025-12-10 19:16:15,946	DEBUG	LivySession	Session 383 in state starting. Sleeping 2 seconds.
+2025-12-10 19:16:17,951	DEBUG	LivySession	Session 383 in state starting. Sleeping 2 seconds.
+2025-12-10 19:16:19,956	ERROR	LivySession	Session 383 did not reach idle status in time. Current status is starting.
+2025-12-10 19:16:19,956	INFO	EventsHandler	InstanceId: 164a8670-fe6a-4efc-92eb-3632d69b93e1,EventName: notebookSessionCreationEnd,Timestamp: 2025-12-10 19:16:19.956744,SessionGuid: 44f95a85-1d49-44d9-a20d-4ad0acf381fa,LivyKind: pyspark,SessionId: 383,Status: starting,Success: False,ExceptionType: LivyClientTimeoutException,ExceptionMessage: Session 383 did not start up in 60 seconds.
+2025-12-10 19:16:19,956	INFO	EventsHandler	InstanceId: 164a8670-fe6a-4efc-92eb-3632d69b93e1,EventName: notebookSessionDeletionStart,Timestamp: 2025-12-10 19:16:19.956891,SessionGuid: 44f95a85-1d49-44d9-a20d-4ad0acf381fa,LivyKind: pyspark,SessionId: 383,Status: starting
+2025-12-10 19:16:19,956	DEBUG	LivySession	Deleting session '383'
+2025-12-10 19:16:19,978	INFO	EventsHandler	InstanceId: 164a8670-fe6a-4efc-92eb-3632d69b93e1,EventName: notebookSessionDeletionEnd,Timestamp: 2025-12-10 19:16:19.978202,SessionGuid: 44f95a85-1d49-44d9-a20d-4ad0acf381fa,LivyKind: pyspark,SessionId: 383,Status: dead,Success: True,ExceptionType: ,ExceptionMessage: 
+2025-12-10 19:16:19,978	ERROR	SparkMagics	Error creating session: Session 383 did not start up in 60 seconds.

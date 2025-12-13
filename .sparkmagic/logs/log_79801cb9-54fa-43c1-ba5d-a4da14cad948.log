@@ -1,0 +1,46 @@
+2025-11-19 13:38:14,321	DEBUG	SparkMagics	Initialized spark magics.
+2025-11-19 13:38:14,322	INFO	EventsHandler	InstanceId: 79801cb9-54fa-43c1-ba5d-a4da14cad948,EventName: notebookLoaded,Timestamp: 2025-11-19 13:38:14.322379
+2025-11-19 13:38:14,323	DEBUG	scala_jupyter_kernel	Loaded magics.
+2025-11-19 13:38:14,324	DEBUG	scala_jupyter_kernel	Changed language.
+2025-11-19 13:38:14,379	DEBUG	scala_jupyter_kernel	Registered auto viz.
+2025-11-19 13:38:17,631	INFO	EventsHandler	InstanceId: 79801cb9-54fa-43c1-ba5d-a4da14cad948,EventName: notebookSessionCreationStart,Timestamp: 2025-11-19 13:38:17.631662,SessionGuid: c175b225-bc5e-41b4-bd57-4ae3aedf8ad1,LivyKind: spark
+2025-11-19 13:38:17,650	DEBUG	LivySession	Session 255 in state starting. Sleeping 0.2 seconds.
+2025-11-19 13:38:17,853	DEBUG	LivySession	Session 255 in state starting. Sleeping 0.5 seconds.
+2025-11-19 13:38:18,357	DEBUG	LivySession	Session 255 in state starting. Sleeping 0.5 seconds.
+2025-11-19 13:38:18,860	DEBUG	LivySession	Session 255 in state starting. Sleeping 1 seconds.
+2025-11-19 13:38:19,866	DEBUG	LivySession	Session 255 in state starting. Sleeping 1 seconds.
+2025-11-19 13:38:20,870	DEBUG	LivySession	Session 255 in state starting. Sleeping 2 seconds.
+2025-11-19 13:38:22,874	DEBUG	LivySession	Session 255 in state starting. Sleeping 2 seconds.
+2025-11-19 13:38:24,879	DEBUG	LivySession	Session 255 in state starting. Sleeping 2 seconds.
+2025-11-19 13:38:26,882	DEBUG	LivySession	Session 255 in state starting. Sleeping 2 seconds.
+2025-11-19 13:38:28,887	DEBUG	LivySession	Session 255 in state starting. Sleeping 2 seconds.
+2025-11-19 13:38:30,892	DEBUG	LivySession	Session 255 in state starting. Sleeping 2 seconds.
+2025-11-19 13:38:32,897	DEBUG	LivySession	Session 255 in state starting. Sleeping 2 seconds.
+2025-11-19 13:38:34,902	DEBUG	LivySession	Session 255 in state starting. Sleeping 2 seconds.
+2025-11-19 13:38:36,907	DEBUG	LivySession	Session 255 in state starting. Sleeping 2 seconds.
+2025-11-19 13:38:38,912	DEBUG	LivySession	Session 255 in state starting. Sleeping 2 seconds.
+2025-11-19 13:38:40,917	DEBUG	LivySession	Session 255 in state starting. Sleeping 2 seconds.
+2025-11-19 13:38:42,922	DEBUG	LivySession	Session 255 in state starting. Sleeping 2 seconds.
+2025-11-19 13:38:44,926	DEBUG	LivySession	Session 255 in state starting. Sleeping 2 seconds.
+2025-11-19 13:38:46,931	DEBUG	LivySession	Session 255 in state starting. Sleeping 2 seconds.
+2025-11-19 13:38:48,936	DEBUG	LivySession	Session 255 in state starting. Sleeping 2 seconds.
+2025-11-19 13:38:50,941	DEBUG	LivySession	Session 255 in state starting. Sleeping 2 seconds.
+2025-11-19 13:38:52,945	DEBUG	LivySession	Session 255 in state starting. Sleeping 2 seconds.
+2025-11-19 13:38:54,950	DEBUG	LivySession	Session 255 in state starting. Sleeping 2 seconds.
+2025-11-19 13:38:56,956	DEBUG	LivySession	Session 255 in state starting. Sleeping 2 seconds.
+2025-11-19 13:38:58,961	DEBUG	LivySession	Session 255 in state starting. Sleeping 2 seconds.
+2025-11-19 13:39:00,966	DEBUG	LivySession	Session 255 in state starting. Sleeping 2 seconds.
+2025-11-19 13:39:02,971	DEBUG	LivySession	Session 255 in state starting. Sleeping 2 seconds.
+2025-11-19 13:39:04,976	DEBUG	LivySession	Session 255 in state starting. Sleeping 2 seconds.
+2025-11-19 13:39:06,981	DEBUG	LivySession	Session 255 in state starting. Sleeping 2 seconds.
+2025-11-19 13:39:08,986	DEBUG	LivySession	Session 255 in state starting. Sleeping 2 seconds.
+2025-11-19 13:39:10,991	DEBUG	LivySession	Session 255 in state starting. Sleeping 2 seconds.
+2025-11-19 13:39:12,995	DEBUG	LivySession	Session 255 in state starting. Sleeping 2 seconds.
+2025-11-19 13:39:15,000	DEBUG	LivySession	Session 255 in state starting. Sleeping 2 seconds.
+2025-11-19 13:39:17,005	DEBUG	LivySession	Session 255 in state starting. Sleeping 2 seconds.
+2025-11-19 13:39:19,009	ERROR	LivySession	Session 255 did not reach idle status in time. Current status is starting.
+2025-11-19 13:39:19,009	INFO	EventsHandler	InstanceId: 79801cb9-54fa-43c1-ba5d-a4da14cad948,EventName: notebookSessionCreationEnd,Timestamp: 2025-11-19 13:39:19.009675,SessionGuid: c175b225-bc5e-41b4-bd57-4ae3aedf8ad1,LivyKind: spark,SessionId: 255,Status: starting,Success: False,ExceptionType: LivyClientTimeoutException,ExceptionMessage: Session 255 did not start up in 60 seconds.
+2025-11-19 13:39:19,009	INFO	EventsHandler	InstanceId: 79801cb9-54fa-43c1-ba5d-a4da14cad948,EventName: notebookSessionDeletionStart,Timestamp: 2025-11-19 13:39:19.009839,SessionGuid: c175b225-bc5e-41b4-bd57-4ae3aedf8ad1,LivyKind: spark,SessionId: 255,Status: starting
+2025-11-19 13:39:19,009	DEBUG	LivySession	Deleting session '255'
+2025-11-19 13:39:19,013	INFO	EventsHandler	InstanceId: 79801cb9-54fa-43c1-ba5d-a4da14cad948,EventName: notebookSessionDeletionEnd,Timestamp: 2025-11-19 13:39:19.013699,SessionGuid: c175b225-bc5e-41b4-bd57-4ae3aedf8ad1,LivyKind: spark,SessionId: 255,Status: dead,Success: True,ExceptionType: ,ExceptionMessage: 
+2025-11-19 13:39:19,013	ERROR	SparkMagics	Error creating session: Session 255 did not start up in 60 seconds.

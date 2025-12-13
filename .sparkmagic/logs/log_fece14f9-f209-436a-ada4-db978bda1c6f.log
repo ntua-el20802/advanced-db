@@ -1,0 +1,28 @@
+2025-12-13 18:35:32,938	DEBUG	SparkMagics	Initialized spark magics.
+2025-12-13 18:35:32,938	INFO	EventsHandler	InstanceId: fece14f9-f209-436a-ada4-db978bda1c6f,EventName: notebookLoaded,Timestamp: 2025-12-13 18:35:32.938790
+2025-12-13 18:35:32,939	DEBUG	python_jupyter_kernel	Loaded magics.
+2025-12-13 18:35:32,940	DEBUG	python_jupyter_kernel	Changed language.
+2025-12-13 18:35:32,995	DEBUG	python_jupyter_kernel	Registered auto viz.
+2025-12-13 18:35:33,035	INFO	EventsHandler	InstanceId: fece14f9-f209-436a-ada4-db978bda1c6f,EventName: notebookMagicExecutionStart,Timestamp: 2025-12-13 18:35:33.035017,MagicName: configure,LivyKind: pyspark,MagicGuid: 028f045c-4f71-4638-9d9b-e76934aea9d6
+2025-12-13 18:35:33,035	INFO	EventsHandler	InstanceId: fece14f9-f209-436a-ada4-db978bda1c6f,EventName: notebookMagicExecutionStart,Timestamp: 2025-12-13 18:35:33.035580,MagicName: info,LivyKind: pyspark,MagicGuid: bbfaaa58-1b9b-494f-b1cf-2693b14780ed
+2025-12-13 18:35:33,108	INFO	EventsHandler	InstanceId: fece14f9-f209-436a-ada4-db978bda1c6f,EventName: notebookMagicExecutionEnd,Timestamp: 2025-12-13 18:35:33.108197,MagicName: info,LivyKind: pyspark,MagicGuid: bbfaaa58-1b9b-494f-b1cf-2693b14780ed,Success: True,ExceptionType: ,ExceptionMessage: 
+2025-12-13 18:35:33,108	INFO	EventsHandler	InstanceId: fece14f9-f209-436a-ada4-db978bda1c6f,EventName: notebookMagicExecutionEnd,Timestamp: 2025-12-13 18:35:33.108515,MagicName: configure,LivyKind: pyspark,MagicGuid: 028f045c-4f71-4638-9d9b-e76934aea9d6,Success: True,ExceptionType: ,ExceptionMessage: 
+2025-12-13 18:35:33,117	INFO	EventsHandler	InstanceId: fece14f9-f209-436a-ada4-db978bda1c6f,EventName: notebookSessionCreationStart,Timestamp: 2025-12-13 18:35:33.116992,SessionGuid: f09635dc-41c8-46cd-98e1-32549067fe4b,LivyKind: pyspark
+2025-12-13 18:35:33,129	DEBUG	LivySession	Session 1213 in state starting. Sleeping 0.2 seconds.
+2025-12-13 18:35:33,331	DEBUG	LivySession	Session 1213 in state starting. Sleeping 0.5 seconds.
+2025-12-13 18:35:33,835	DEBUG	LivySession	Session 1213 in state starting. Sleeping 0.5 seconds.
+2025-12-13 18:35:34,338	DEBUG	LivySession	Session 1213 in state starting. Sleeping 1 seconds.
+2025-12-13 18:35:35,341	DEBUG	LivySession	Session 1213 in state starting. Sleeping 1 seconds.
+2025-12-13 18:35:36,344	DEBUG	LivySession	Session 1213 in state starting. Sleeping 2 seconds.
+2025-12-13 18:35:38,349	DEBUG	LivySession	Session 1213 in state starting. Sleeping 2 seconds.
+2025-12-13 18:35:40,354	DEBUG	LivySession	Session 1213 in state starting. Sleeping 2 seconds.
+2025-12-13 18:35:42,359	DEBUG	LivySession	Session 1213 in state starting. Sleeping 2 seconds.
+2025-12-13 18:35:44,364	DEBUG	LivySession	Session 1213 in state starting. Sleeping 2 seconds.
+2025-12-13 18:35:46,368	DEBUG	LivySession	Session 1213 in state starting. Sleeping 2 seconds.
+2025-12-13 18:35:48,373	DEBUG	LivySession	Session 1213 in state starting. Sleeping 2 seconds.
+2025-12-13 18:35:50,378	DEBUG	LivySession	Session 1213 in state starting. Sleeping 2 seconds.
+2025-12-13 18:35:52,382	DEBUG	LivySession	Session 1213 in state starting. Sleeping 2 seconds.
+2025-12-13 18:35:54,387	DEBUG	LivySession	Session 1213 in state starting. Sleeping 2 seconds.
+2025-12-13 18:35:55,509	INFO	EventsHandler	InstanceId: fece14f9-f209-436a-ada4-db978bda1c6f,EventName: notebookSessionDeletionStart,Timestamp: 2025-12-13 18:35:55.509730,SessionGuid: f09635dc-41c8-46cd-98e1-32549067fe4b,LivyKind: pyspark,SessionId: 1213,Status: starting
+2025-12-13 18:35:55,509	DEBUG	LivySession	Deleting session '1213'
+2025-12-13 18:35:55,531	INFO	EventsHandler	InstanceId: fece14f9-f209-436a-ada4-db978bda1c6f,EventName: notebookSessionDeletionEnd,Timestamp: 2025-12-13 18:35:55.531281,SessionGuid: f09635dc-41c8-46cd-98e1-32549067fe4b,LivyKind: pyspark,SessionId: 1213,Status: dead,Success: True,ExceptionType: ,ExceptionMessage: 

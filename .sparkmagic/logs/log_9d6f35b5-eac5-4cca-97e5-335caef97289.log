@@ -1,0 +1,90 @@
+2025-12-10 20:20:09,034	DEBUG	SparkMagics	Initialized spark magics.
+2025-12-10 20:20:09,035	INFO	EventsHandler	InstanceId: 9d6f35b5-eac5-4cca-97e5-335caef97289,EventName: notebookLoaded,Timestamp: 2025-12-10 20:20:09.035035
+2025-12-10 20:20:09,035	DEBUG	python_jupyter_kernel	Loaded magics.
+2025-12-10 20:20:09,037	DEBUG	python_jupyter_kernel	Changed language.
+2025-12-10 20:20:09,095	DEBUG	python_jupyter_kernel	Registered auto viz.
+2025-12-10 20:20:09,245	INFO	EventsHandler	InstanceId: 9d6f35b5-eac5-4cca-97e5-335caef97289,EventName: notebookMagicExecutionStart,Timestamp: 2025-12-10 20:20:09.245748,MagicName: configure,LivyKind: pyspark,MagicGuid: 3b8f97b7-3a7f-47d4-a3da-5384722d9c49
+2025-12-10 20:20:09,246	INFO	EventsHandler	InstanceId: 9d6f35b5-eac5-4cca-97e5-335caef97289,EventName: notebookMagicExecutionStart,Timestamp: 2025-12-10 20:20:09.246189,MagicName: info,LivyKind: pyspark,MagicGuid: 8d3cb85c-83f3-46bd-9d1e-d379de62ccb7
+2025-12-10 20:20:09,340	INFO	EventsHandler	InstanceId: 9d6f35b5-eac5-4cca-97e5-335caef97289,EventName: notebookMagicExecutionEnd,Timestamp: 2025-12-10 20:20:09.338913,MagicName: info,LivyKind: pyspark,MagicGuid: 8d3cb85c-83f3-46bd-9d1e-d379de62ccb7,Success: True,ExceptionType: ,ExceptionMessage: 
+2025-12-10 20:20:09,340	INFO	EventsHandler	InstanceId: 9d6f35b5-eac5-4cca-97e5-335caef97289,EventName: notebookMagicExecutionEnd,Timestamp: 2025-12-10 20:20:09.340462,MagicName: configure,LivyKind: pyspark,MagicGuid: 3b8f97b7-3a7f-47d4-a3da-5384722d9c49,Success: True,ExceptionType: ,ExceptionMessage: 
+2025-12-10 20:21:46,298	INFO	EventsHandler	InstanceId: 9d6f35b5-eac5-4cca-97e5-335caef97289,EventName: notebookMagicExecutionStart,Timestamp: 2025-12-10 20:21:46.298127,MagicName: configure,LivyKind: pyspark,MagicGuid: be6ca326-0907-4557-b03e-f0a76b5d5d81
+2025-12-10 20:21:46,298	INFO	EventsHandler	InstanceId: 9d6f35b5-eac5-4cca-97e5-335caef97289,EventName: notebookMagicExecutionStart,Timestamp: 2025-12-10 20:21:46.298777,MagicName: info,LivyKind: pyspark,MagicGuid: 911e84be-dbf6-44fb-b948-0da8e5eb522f
+2025-12-10 20:21:46,381	INFO	EventsHandler	InstanceId: 9d6f35b5-eac5-4cca-97e5-335caef97289,EventName: notebookMagicExecutionEnd,Timestamp: 2025-12-10 20:21:46.381003,MagicName: info,LivyKind: pyspark,MagicGuid: 911e84be-dbf6-44fb-b948-0da8e5eb522f,Success: True,ExceptionType: ,ExceptionMessage: 
+2025-12-10 20:21:46,381	INFO	EventsHandler	InstanceId: 9d6f35b5-eac5-4cca-97e5-335caef97289,EventName: notebookMagicExecutionEnd,Timestamp: 2025-12-10 20:21:46.381304,MagicName: configure,LivyKind: pyspark,MagicGuid: be6ca326-0907-4557-b03e-f0a76b5d5d81,Success: True,ExceptionType: ,ExceptionMessage: 
+2025-12-10 20:21:46,388	INFO	EventsHandler	InstanceId: 9d6f35b5-eac5-4cca-97e5-335caef97289,EventName: notebookSessionCreationStart,Timestamp: 2025-12-10 20:21:46.388723,SessionGuid: fbb351ee-9e37-4ee9-b2eb-0e8379e54a45,LivyKind: pyspark
+2025-12-10 20:21:46,402	DEBUG	LivySession	Session 404 in state starting. Sleeping 0.2 seconds.
+2025-12-10 20:21:46,605	DEBUG	LivySession	Session 404 in state starting. Sleeping 0.5 seconds.
+2025-12-10 20:21:47,109	DEBUG	LivySession	Session 404 in state starting. Sleeping 0.5 seconds.
+2025-12-10 20:21:47,612	DEBUG	LivySession	Session 404 in state starting. Sleeping 1 seconds.
+2025-12-10 20:21:48,617	DEBUG	LivySession	Session 404 in state starting. Sleeping 1 seconds.
+2025-12-10 20:21:49,621	DEBUG	LivySession	Session 404 in state starting. Sleeping 2 seconds.
+2025-12-10 20:21:51,626	DEBUG	LivySession	Session 404 in state starting. Sleeping 2 seconds.
+2025-12-10 20:21:53,631	DEBUG	LivySession	Session 404 in state starting. Sleeping 2 seconds.
+2025-12-10 20:21:55,635	DEBUG	LivySession	Session 404 in state starting. Sleeping 2 seconds.
+2025-12-10 20:21:57,640	DEBUG	LivySession	Session 404 in state starting. Sleeping 2 seconds.
+2025-12-10 20:21:59,645	DEBUG	LivySession	Session 404 in state starting. Sleeping 2 seconds.
+2025-12-10 20:22:01,650	DEBUG	LivySession	Session 404 in state starting. Sleeping 2 seconds.
+2025-12-10 20:22:03,655	DEBUG	LivySession	Session 404 in state starting. Sleeping 2 seconds.
+2025-12-10 20:22:05,660	DEBUG	LivySession	Session 404 in state starting. Sleeping 2 seconds.
+2025-12-10 20:22:07,665	DEBUG	LivySession	Session 404 in state starting. Sleeping 2 seconds.
+2025-12-10 20:22:09,670	DEBUG	LivySession	Session 404 in state starting. Sleeping 2 seconds.
+2025-12-10 20:22:11,675	DEBUG	LivySession	Session 404 in state starting. Sleeping 2 seconds.
+2025-12-10 20:22:13,680	DEBUG	LivySession	Session 404 in state starting. Sleeping 2 seconds.
+2025-12-10 20:22:15,685	DEBUG	LivySession	Session 404 in state starting. Sleeping 2 seconds.
+2025-12-10 20:22:17,700	INFO	EventsHandler	InstanceId: 9d6f35b5-eac5-4cca-97e5-335caef97289,EventName: notebookStatementExecutionStart,Timestamp: 2025-12-10 20:22:17.700780,SessionGuid: fbb351ee-9e37-4ee9-b2eb-0e8379e54a45,LivyKind: pyspark,SessionId: 404,StatementGuid: 991399bc-a032-4dae-bf3c-6b9c667e44b9
+2025-12-10 20:22:17,776	DEBUG	Command	Status of statement 0 is waiting.
+2025-12-10 20:22:17,981	DEBUG	Command	Status of statement 0 is waiting.
+2025-12-10 20:22:18,486	DEBUG	Command	Status of statement 0 is waiting.
+2025-12-10 20:22:18,991	DEBUG	Command	Status of statement 0 is waiting.
+2025-12-10 20:22:19,996	DEBUG	Command	Status of statement 0 is available.
+2025-12-10 20:22:19,996	INFO	EventsHandler	InstanceId: 9d6f35b5-eac5-4cca-97e5-335caef97289,EventName: notebookStatementExecutionEnd,Timestamp: 2025-12-10 20:22:19.996763,SessionGuid: fbb351ee-9e37-4ee9-b2eb-0e8379e54a45,LivyKind: pyspark,SessionId: 404,StatementGuid: 991399bc-a032-4dae-bf3c-6b9c667e44b9,StatementId: 0,Success: True,ExceptionType: ,ExceptionMessage: 
+2025-12-10 20:22:19,997	INFO	EventsHandler	InstanceId: 9d6f35b5-eac5-4cca-97e5-335caef97289,EventName: notebookSessionCreationEnd,Timestamp: 2025-12-10 20:22:19.997708,SessionGuid: fbb351ee-9e37-4ee9-b2eb-0e8379e54a45,LivyKind: pyspark,SessionId: 404,Status: idle,Success: True,ExceptionType: ,ExceptionMessage: 
+2025-12-10 20:22:19,999	INFO	EventsHandler	InstanceId: 9d6f35b5-eac5-4cca-97e5-335caef97289,EventName: notebookStatementExecutionStart,Timestamp: 2025-12-10 20:22:19.999210,SessionGuid: fbb351ee-9e37-4ee9-b2eb-0e8379e54a45,LivyKind: pyspark,SessionId: 404,StatementGuid: cf3187b6-2dc7-42ed-a08f-8510ca28972c
+2025-12-10 20:22:20,014	DEBUG	Command	Status of statement 1 is running.
+2025-12-10 20:22:20,219	DEBUG	Command	Status of statement 1 is available.
+2025-12-10 20:22:20,220	INFO	EventsHandler	InstanceId: 9d6f35b5-eac5-4cca-97e5-335caef97289,EventName: notebookStatementExecutionEnd,Timestamp: 2025-12-10 20:22:20.220334,SessionGuid: fbb351ee-9e37-4ee9-b2eb-0e8379e54a45,LivyKind: pyspark,SessionId: 404,StatementGuid: cf3187b6-2dc7-42ed-a08f-8510ca28972c,StatementId: 1,Success: True,ExceptionType: ,ExceptionMessage: 
+2025-12-10 20:22:20,230	INFO	EventsHandler	InstanceId: 9d6f35b5-eac5-4cca-97e5-335caef97289,EventName: notebookStatementExecutionStart,Timestamp: 2025-12-10 20:22:20.230875,SessionGuid: fbb351ee-9e37-4ee9-b2eb-0e8379e54a45,LivyKind: pyspark,SessionId: 404,StatementGuid: 6e19ac18-c130-475e-b1cd-bdfc1fdea313
+2025-12-10 20:22:20,245	DEBUG	Command	Status of statement 2 is running.
+2025-12-10 20:22:20,450	DEBUG	Command	Status of statement 2 is running.
+2025-12-10 20:22:20,955	DEBUG	Command	Status of statement 2 is running.
+2025-12-10 20:22:21,459	DEBUG	Command	Status of statement 2 is running.
+2025-12-10 20:22:22,465	DEBUG	Command	Status of statement 2 is running.
+2025-12-10 20:22:23,471	DEBUG	Command	Status of statement 2 is running.
+2025-12-10 20:22:25,481	DEBUG	Command	Status of statement 2 is running.
+2025-12-10 20:22:27,488	DEBUG	Command	Status of statement 2 is running.
+2025-12-10 20:22:29,493	DEBUG	Command	Status of statement 2 is running.
+2025-12-10 20:22:31,500	DEBUG	Command	Status of statement 2 is running.
+2025-12-10 20:22:33,506	DEBUG	Command	Status of statement 2 is running.
+2025-12-10 20:22:35,512	DEBUG	Command	Status of statement 2 is running.
+2025-12-10 20:22:37,519	DEBUG	Command	Status of statement 2 is running.
+2025-12-10 20:22:39,525	DEBUG	Command	Status of statement 2 is running.
+2025-12-10 20:22:41,531	DEBUG	Command	Status of statement 2 is available.
+2025-12-10 20:22:41,532	INFO	EventsHandler	InstanceId: 9d6f35b5-eac5-4cca-97e5-335caef97289,EventName: notebookStatementExecutionEnd,Timestamp: 2025-12-10 20:22:41.532077,SessionGuid: fbb351ee-9e37-4ee9-b2eb-0e8379e54a45,LivyKind: pyspark,SessionId: 404,StatementGuid: 6e19ac18-c130-475e-b1cd-bdfc1fdea313,StatementId: 2,Success: True,ExceptionType: ,ExceptionMessage: 
+2025-12-10 20:22:41,540	INFO	EventsHandler	InstanceId: 9d6f35b5-eac5-4cca-97e5-335caef97289,EventName: notebookStatementExecutionStart,Timestamp: 2025-12-10 20:22:41.540815,SessionGuid: fbb351ee-9e37-4ee9-b2eb-0e8379e54a45,LivyKind: pyspark,SessionId: 404,StatementGuid: d6c17cb5-774c-490a-907a-bf5da02a2ab4
+2025-12-10 20:22:41,556	DEBUG	Command	Status of statement 3 is running.
+2025-12-10 20:22:41,760	DEBUG	Command	Status of statement 3 is running.
+2025-12-10 20:22:42,265	DEBUG	Command	Status of statement 3 is running.
+2025-12-10 20:22:42,769	DEBUG	Command	Status of statement 3 is running.
+2025-12-10 20:22:43,775	DEBUG	Command	Status of statement 3 is running.
+2025-12-10 20:22:44,780	DEBUG	Command	Status of statement 3 is running.
+2025-12-10 20:22:46,786	DEBUG	Command	Status of statement 3 is running.
+2025-12-10 20:22:48,792	DEBUG	Command	Status of statement 3 is running.
+2025-12-10 20:22:50,798	DEBUG	Command	Status of statement 3 is running.
+2025-12-10 20:22:52,805	DEBUG	Command	Status of statement 3 is running.
+2025-12-10 20:22:54,810	DEBUG	Command	Status of statement 3 is running.
+2025-12-10 20:22:56,816	DEBUG	Command	Status of statement 3 is running.
+2025-12-10 20:22:58,823	DEBUG	Command	Status of statement 3 is available.
+2025-12-10 20:22:58,824	INFO	EventsHandler	InstanceId: 9d6f35b5-eac5-4cca-97e5-335caef97289,EventName: notebookStatementExecutionEnd,Timestamp: 2025-12-10 20:22:58.823969,SessionGuid: fbb351ee-9e37-4ee9-b2eb-0e8379e54a45,LivyKind: pyspark,SessionId: 404,StatementGuid: d6c17cb5-774c-490a-907a-bf5da02a2ab4,StatementId: 3,Success: True,ExceptionType: ,ExceptionMessage: 
+2025-12-10 20:24:54,803	INFO	EventsHandler	InstanceId: 9d6f35b5-eac5-4cca-97e5-335caef97289,EventName: notebookStatementExecutionStart,Timestamp: 2025-12-10 20:24:54.803181,SessionGuid: fbb351ee-9e37-4ee9-b2eb-0e8379e54a45,LivyKind: pyspark,SessionId: 404,StatementGuid: ccd91b16-812d-4d7f-b3fb-99d842049237
+2025-12-10 20:24:54,820	DEBUG	Command	Status of statement 4 is running.
+2025-12-10 20:24:55,024	DEBUG	Command	Status of statement 4 is running.
+2025-12-10 20:24:55,528	DEBUG	Command	Status of statement 4 is running.
+2025-12-10 20:24:56,033	DEBUG	Command	Status of statement 4 is running.
+2025-12-10 20:24:57,038	DEBUG	Command	Status of statement 4 is running.
+2025-12-10 20:24:58,042	DEBUG	Command	Status of statement 4 is running.
+2025-12-10 20:25:00,050	DEBUG	Command	Status of statement 4 is running.
+2025-12-10 20:25:02,057	DEBUG	Command	Status of statement 4 is available.
+2025-12-10 20:25:02,057	INFO	EventsHandler	InstanceId: 9d6f35b5-eac5-4cca-97e5-335caef97289,EventName: notebookStatementExecutionEnd,Timestamp: 2025-12-10 20:25:02.057504,SessionGuid: fbb351ee-9e37-4ee9-b2eb-0e8379e54a45,LivyKind: pyspark,SessionId: 404,StatementGuid: ccd91b16-812d-4d7f-b3fb-99d842049237,StatementId: 4,Success: True,ExceptionType: ,ExceptionMessage: 
+2025-12-11 13:26:14,122	INFO	EventsHandler	InstanceId: 9d6f35b5-eac5-4cca-97e5-335caef97289,EventName: notebookSessionDeletionStart,Timestamp: 2025-12-11 13:26:14.122626,SessionGuid: fbb351ee-9e37-4ee9-b2eb-0e8379e54a45,LivyKind: pyspark,SessionId: 404,Status: idle
+2025-12-11 13:26:14,123	DEBUG	LivySession	Deleting session '404'
+2025-12-11 13:26:14,129	INFO	EventsHandler	InstanceId: 9d6f35b5-eac5-4cca-97e5-335caef97289,EventName: notebookSessionDeletionEnd,Timestamp: 2025-12-11 13:26:14.129861,SessionGuid: fbb351ee-9e37-4ee9-b2eb-0e8379e54a45,LivyKind: pyspark,SessionId: 404,Status: dead,Success: True,ExceptionType: ,ExceptionMessage: 

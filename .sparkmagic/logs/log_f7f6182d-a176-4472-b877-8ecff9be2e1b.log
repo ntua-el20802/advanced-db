@@ -1,0 +1,50 @@
+2025-12-11 13:51:14,215	DEBUG	SparkMagics	Initialized spark magics.
+2025-12-11 13:51:14,216	INFO	EventsHandler	InstanceId: f7f6182d-a176-4472-b877-8ecff9be2e1b,EventName: notebookLoaded,Timestamp: 2025-12-11 13:51:14.216208
+2025-12-11 13:51:14,216	DEBUG	python_jupyter_kernel	Loaded magics.
+2025-12-11 13:51:14,218	DEBUG	python_jupyter_kernel	Changed language.
+2025-12-11 13:51:14,272	DEBUG	python_jupyter_kernel	Registered auto viz.
+2025-12-11 13:51:14,305	INFO	EventsHandler	InstanceId: f7f6182d-a176-4472-b877-8ecff9be2e1b,EventName: notebookMagicExecutionStart,Timestamp: 2025-12-11 13:51:14.305929,MagicName: configure,LivyKind: pyspark,MagicGuid: 3b906bfb-a6de-419d-8dce-108fa3d0b3e9
+2025-12-11 13:51:14,306	INFO	EventsHandler	InstanceId: f7f6182d-a176-4472-b877-8ecff9be2e1b,EventName: notebookMagicExecutionStart,Timestamp: 2025-12-11 13:51:14.306824,MagicName: info,LivyKind: pyspark,MagicGuid: 67762699-0c55-4b0e-ad05-bd061901caec
+2025-12-11 13:51:14,413	INFO	EventsHandler	InstanceId: f7f6182d-a176-4472-b877-8ecff9be2e1b,EventName: notebookMagicExecutionEnd,Timestamp: 2025-12-11 13:51:14.413847,MagicName: info,LivyKind: pyspark,MagicGuid: 67762699-0c55-4b0e-ad05-bd061901caec,Success: True,ExceptionType: ,ExceptionMessage: 
+2025-12-11 13:51:14,414	INFO	EventsHandler	InstanceId: f7f6182d-a176-4472-b877-8ecff9be2e1b,EventName: notebookMagicExecutionEnd,Timestamp: 2025-12-11 13:51:14.414174,MagicName: configure,LivyKind: pyspark,MagicGuid: 3b906bfb-a6de-419d-8dce-108fa3d0b3e9,Success: True,ExceptionType: ,ExceptionMessage: 
+2025-12-11 13:51:14,421	INFO	EventsHandler	InstanceId: f7f6182d-a176-4472-b877-8ecff9be2e1b,EventName: notebookSessionCreationStart,Timestamp: 2025-12-11 13:51:14.421809,SessionGuid: e0cc28e4-9ed8-4f36-9936-160a87d98492,LivyKind: pyspark
+2025-12-11 13:51:14,433	DEBUG	LivySession	Session 615 in state starting. Sleeping 0.2 seconds.
+2025-12-11 13:51:14,636	DEBUG	LivySession	Session 615 in state starting. Sleeping 0.5 seconds.
+2025-12-11 13:51:15,139	DEBUG	LivySession	Session 615 in state starting. Sleeping 0.5 seconds.
+2025-12-11 13:51:15,643	DEBUG	LivySession	Session 615 in state starting. Sleeping 1 seconds.
+2025-12-11 13:51:16,647	DEBUG	LivySession	Session 615 in state starting. Sleeping 1 seconds.
+2025-12-11 13:51:17,651	DEBUG	LivySession	Session 615 in state starting. Sleeping 2 seconds.
+2025-12-11 13:51:19,657	DEBUG	LivySession	Session 615 in state starting. Sleeping 2 seconds.
+2025-12-11 13:51:21,662	DEBUG	LivySession	Session 615 in state starting. Sleeping 2 seconds.
+2025-12-11 13:51:23,666	DEBUG	LivySession	Session 615 in state starting. Sleeping 2 seconds.
+2025-12-11 13:51:25,672	DEBUG	LivySession	Session 615 in state starting. Sleeping 2 seconds.
+2025-12-11 13:51:27,676	DEBUG	LivySession	Session 615 in state starting. Sleeping 2 seconds.
+2025-12-11 13:51:29,682	DEBUG	LivySession	Session 615 in state starting. Sleeping 2 seconds.
+2025-12-11 13:51:31,687	DEBUG	LivySession	Session 615 in state starting. Sleeping 2 seconds.
+2025-12-11 13:51:33,692	DEBUG	LivySession	Session 615 in state starting. Sleeping 2 seconds.
+2025-12-11 13:51:35,697	DEBUG	LivySession	Session 615 in state starting. Sleeping 2 seconds.
+2025-12-11 13:51:37,703	DEBUG	LivySession	Session 615 in state starting. Sleeping 2 seconds.
+2025-12-11 13:51:39,708	DEBUG	LivySession	Session 615 in state starting. Sleeping 2 seconds.
+2025-12-11 13:51:41,713	DEBUG	LivySession	Session 615 in state starting. Sleeping 2 seconds.
+2025-12-11 13:51:43,718	DEBUG	LivySession	Session 615 in state starting. Sleeping 2 seconds.
+2025-12-11 13:51:45,722	DEBUG	LivySession	Session 615 in state starting. Sleeping 2 seconds.
+2025-12-11 13:51:47,727	DEBUG	LivySession	Session 615 in state starting. Sleeping 2 seconds.
+2025-12-11 13:51:49,732	DEBUG	LivySession	Session 615 in state starting. Sleeping 2 seconds.
+2025-12-11 13:51:51,735	DEBUG	LivySession	Session 615 in state starting. Sleeping 2 seconds.
+2025-12-11 13:51:53,740	DEBUG	LivySession	Session 615 in state starting. Sleeping 2 seconds.
+2025-12-11 13:51:55,745	DEBUG	LivySession	Session 615 in state starting. Sleeping 2 seconds.
+2025-12-11 13:51:57,750	DEBUG	LivySession	Session 615 in state starting. Sleeping 2 seconds.
+2025-12-11 13:51:59,755	DEBUG	LivySession	Session 615 in state starting. Sleeping 2 seconds.
+2025-12-11 13:52:01,760	DEBUG	LivySession	Session 615 in state starting. Sleeping 2 seconds.
+2025-12-11 13:52:03,764	DEBUG	LivySession	Session 615 in state starting. Sleeping 2 seconds.
+2025-12-11 13:52:05,769	DEBUG	LivySession	Session 615 in state starting. Sleeping 2 seconds.
+2025-12-11 13:52:07,774	DEBUG	LivySession	Session 615 in state starting. Sleeping 2 seconds.
+2025-12-11 13:52:09,779	DEBUG	LivySession	Session 615 in state starting. Sleeping 2 seconds.
+2025-12-11 13:52:11,785	DEBUG	LivySession	Session 615 in state starting. Sleeping 2 seconds.
+2025-12-11 13:52:13,790	DEBUG	LivySession	Session 615 in state starting. Sleeping 2 seconds.
+2025-12-11 13:52:15,794	ERROR	LivySession	Session 615 did not reach idle status in time. Current status is starting.
+2025-12-11 13:52:15,795	INFO	EventsHandler	InstanceId: f7f6182d-a176-4472-b877-8ecff9be2e1b,EventName: notebookSessionCreationEnd,Timestamp: 2025-12-11 13:52:15.795142,SessionGuid: e0cc28e4-9ed8-4f36-9936-160a87d98492,LivyKind: pyspark,SessionId: 615,Status: starting,Success: False,ExceptionType: LivyClientTimeoutException,ExceptionMessage: Session 615 did not start up in 60 seconds.
+2025-12-11 13:52:15,795	INFO	EventsHandler	InstanceId: f7f6182d-a176-4472-b877-8ecff9be2e1b,EventName: notebookSessionDeletionStart,Timestamp: 2025-12-11 13:52:15.795271,SessionGuid: e0cc28e4-9ed8-4f36-9936-160a87d98492,LivyKind: pyspark,SessionId: 615,Status: starting
+2025-12-11 13:52:15,795	DEBUG	LivySession	Deleting session '615'
+2025-12-11 13:52:15,798	INFO	EventsHandler	InstanceId: f7f6182d-a176-4472-b877-8ecff9be2e1b,EventName: notebookSessionDeletionEnd,Timestamp: 2025-12-11 13:52:15.798248,SessionGuid: e0cc28e4-9ed8-4f36-9936-160a87d98492,LivyKind: pyspark,SessionId: 615,Status: dead,Success: True,ExceptionType: ,ExceptionMessage: 
+2025-12-11 13:52:15,798	ERROR	SparkMagics	Error creating session: Session 615 did not start up in 60 seconds.
